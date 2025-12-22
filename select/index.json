@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "明日晴れるかな",
+  "base_artist": "桑田　佳祐",
+  "createdAt": "2025-12-22T16:46:42.961590Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "明日晴れるかな",
+      "artist": "桑田佳祐",
+      "has_synced": true,
+      "path": "select/01_明日晴れるかな_桑田佳祐.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "明日晴れるかな [2022 Remaster]",
+      "artist": "桑田佳祐",
+      "has_synced": true,
+      "path": "select/02_明日晴れるかな_[2022_Remaster]_桑田佳祐.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "明日晴れるかな",
+      "artist": "Keisuke Kuwata",
+      "has_synced": true,
+      "path": "select/03_明日晴れるかな_Keisuke_Kuwata.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "明日晴れるかな",
+      "artist": "桑田佳祐",
+      "has_synced": true,
+      "path": "select/04_明日晴れるかな_桑田佳祐.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "明日晴れるかな [2022 Remaster]",
+      "artist": "Keisuke Kuwata",
+      "has_synced": true,
+      "path": "select/05_明日晴れるかな_[2022_Remaster]_Keisuke_Kuwata.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "明日晴れるかな (プロポーズ大作戦)",
+      "artist": "桑田佳祐",
+      "has_synced": true,
+      "path": "select/06_明日晴れるかな_(プロポーズ大作戦)_桑田佳祐.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "明日晴れるかな",
+      "artist": "絢香",
+      "has_synced": true,
+      "path": "select/07_明日晴れるかな_絢香.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "明日晴れるかな",
+      "artist": "Keisuke Kuwata",
+      "has_synced": true,
+      "path": "select/08_明日晴れるかな_Keisuke_Kuwata.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "明日晴れるかな - Ashita Harerukana",
+      "artist": "Keisuke Kuwata",
+      "has_synced": true,
+      "path": "select/09_明日晴れるかな_-_Ashita_Harerukana_Keisuke_Kuwata.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "明日晴れるかな",
+      "artist": "Keisuke Kuwata",
+      "has_synced": true,
+      "path": "select/10_明日晴れるかな_Keisuke_Kuwata.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "明日晴れるかな",
+      "artist": "桑田 佳祐",
+      "has_synced": false,
+      "path": "select/pl_01_明日晴れるかな_桑田_佳祐.txt"
+    }
+  ]
+}
